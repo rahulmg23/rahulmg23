@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ### 👋 Hi, I'm Rahul Googikoll
 
 👀 I'm dedicated to honing my full-stack skills by troubleshooting bugs and implementing innovative features across both front-end and back-end components of web applications.
