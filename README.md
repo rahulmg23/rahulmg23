@@ -4,7 +4,7 @@
 
 <h3 align="center">I'm a Software and Web Developer from India ❤</h3>
   
-A 22 Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full-Stack Web Development
+A 22 Y/O Software and Web developer🎯 from India. I'm passionate about Full-Stack Web Development
 
 
 ![age](https://img.shields.io/badge/age-22-blue)
