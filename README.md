@@ -27,7 +27,7 @@ Feel free to reach out if you have any questions or if there's an exciting proje
 
 
 Feel free to reach out if you have any questions or if there's an exciting project you'd like to collaborate on!
-- 👨‍💻 All of my projects are available at [https://rahulgoogikoll.netlify.app/](https://rahulgoogikoll.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://rahulgoogikoll23.netlify.app/](https://rahulgoogikoll23.netlify.app/)
 
 - 📫 How to reach me **raulgoogikoll23@gmail.com**
 
