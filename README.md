@@ -26,7 +26,7 @@ A 24 Y/O Data Analyst 🎯 from India. I'm passionate about turning raw data int
 
 Feel free to reach out if you have any questions or if there's an exciting data project you'd like to collaborate on!
 
-- 👨‍💻 All of my projects are available at [https://rahulgoogikoll23.netlify.app/](https://rahulgoogikoll23.netlify.app/)
+- 👨‍💻 All of my projects are available at https://rahulgoogikoll.com/
 
 - 📫 How to reach me: **raulgoogikoll23@gmail.com**
 
